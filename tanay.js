@@ -1,2 +1,2 @@
-console.log("Tanay DUbey")
+console.log("Tanay Dubey")
 console.log("Hello")
